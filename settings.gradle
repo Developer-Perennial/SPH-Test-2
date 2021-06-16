@@ -1,0 +1,2 @@
+rootProject.name = "My Application SPH 2"
+include ':app'

@@ -1,0 +1,52 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="com in My_Application_SPH_2.app" type="AndroidJUnit" factoryName="Android JUnit" nameIsGenerated="true">
+    <module name="My_Application_SPH_2.app" />
+    <useClassPathOnly />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.sphtechapp.myapplicationsph2.activities.main.adapter.*" />
+        <option name="ENABLED" value="true" />
+        <option name="INCLUDE" value="false" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.sphtechapp.myapplicationsph2.activities.main.data.*" />
+        <option name="ENABLED" value="true" />
+        <option name="INCLUDE" value="false" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.sphtechapp.myapplicationsph2.activities.main.di.*" />
+        <option name="ENABLED" value="true" />
+        <option name="INCLUDE" value="false" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.sphtechapp.myapplicationsph2.activities.main.viewHolder.*" />
+        <option name="ENABLED" value="true" />
+        <option name="INCLUDE" value="false" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.sphtechapp.myapplicationsph2.backend.*" />
+        <option name="ENABLED" value="true" />
+        <option name="INCLUDE" value="false" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.sphtechapp.myapplicationsph2.di.*" />
+        <option name="ENABLED" value="true" />
+        <option name="INCLUDE" value="false" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.sphtechapp.myapplicationsph2.activities.ListActivity" />
+        <option name="ENABLED" value="true" />
+        <option name="INCLUDE" value="false" />
+      </pattern>
+    </extension>
+    <option name="MAIN_CLASS_NAME" value="" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="directory" />
+    <option name="PARAMETERS" value="" />
+    <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    <dir value="$PROJECT_DIR$/app/src/test/java/com" />
+    <method v="2">
+      <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
